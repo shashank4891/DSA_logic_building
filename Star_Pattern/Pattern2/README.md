@@ -4,7 +4,7 @@
 
 **Examples:**
 
-![pattern1](<img width="130" alt="pattern2" src="https://github.com/user-attachments/assets/e7a68e74-9550-413d-9f87-e6037bdbba93">)
+<img width="130" alt="pattern2" src="https://github.com/user-attachments/assets/e7a68e74-9550-413d-9f87-e6037bdbba93">
 
 Here, N = 5.
 
@@ -12,7 +12,7 @@ Here, N = 5.
 - Input: N = 3
 - Output:
 ```
-* *
+* 
 * * 
 * * *
 ```
