@@ -13,13 +13,8 @@ function pattern1(N) {
     }
 }
 
-function main() {
-    // Here, we have taken the value of N as 5.
-    // We can also take input from the user.
-    const N = 5;
-    pattern1(N);
-}
+// Take user input using prompt
+const N = parseInt(prompt("Enter the number of rows:"));
 
-// Call the main function to execute the code
-main();
-
+// Call the function with the user input
+pattern1(N);
