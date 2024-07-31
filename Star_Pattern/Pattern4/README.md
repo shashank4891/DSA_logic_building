@@ -1,4 +1,4 @@
-# Pattern-3: Right-Angled Number Pyramid - II
+# Pattern-4: Right-Angled Number Pyramid - II
 
 **Problem Statement:** Given an integer N, print the following pattern.
 
